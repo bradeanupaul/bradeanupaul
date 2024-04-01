@@ -4,12 +4,27 @@ I am a 20-year-old student living in Cluj-Napoca, currently studying at Babeș-B
 
 Programming Languages
 Here is a list of the programming languages I have acquaintance with.
-[![My Skills](https://skillicons.dev/icons?i=java,cs,cpp,py,linux,html,css)]
+
+<p align="center">
+  <a href="www.paulbradeanu.com">
+    <img src="https://skillicons.dev/icons?i=java,cs,cpp,py,linux,html,css" />
+  </a>
+</p>
 
 Dev Tools
+-
+
+<p align="center">
+  <a href="www.paulbradeanu.com">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim](https://skillicons.dev/icons?i=idea,clion,pycharm,vscode" />
+  </a>
+</p>
 
 Hobbies
+-
 
-[![My Skills](https://skillicons.dev/icons?i=java,c++,c#,assembly,html,css,wasm)]
-
-[![My Skills](https://skillicons.dev/icons?i=java,c++,c#,assembly,html,css,wasm)]
+<p align="center">
+  <a href="www.paulbradeanu.com">
+    <img src="https://skillicons.dev/icons?i=ps,ai,unity,blender" />
+  </a>
+</p>
